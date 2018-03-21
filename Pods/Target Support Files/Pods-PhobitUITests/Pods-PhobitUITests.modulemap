@@ -1,0 +1,6 @@
+framework module Pods_PhobitUITests {
+  umbrella header "Pods-PhobitUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
